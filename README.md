@@ -1,4 +1,4 @@
-ipython-notebooks
+ipython-notebooks version 2
 ========================
 
 <a href="https://notebooks.azure.com/import/gh/jdwittenauer/ipython-notebooks"><img src="https://notebooks.azure.com/launch.png" /></a>
